@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 Aspiring Data Analyst
 
-🌱 Who I Am
+🌱 Who I Am 
 
 I’m developing my career in data analytics, building on experience in business operations, customer support, and revenue monitoring. I’m drawn to work that turns raw information into insights that help teams make smarter decisions and improve how things run.
 
