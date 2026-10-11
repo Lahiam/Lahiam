@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I’m Lahia!
+________________________________________________________________________________________________________________________________________________
 
-<!--
-**Lahiam/Lahiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🌱 Who I Am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m developing my career in data analytics, building on experience in business operations, customer support, and revenue monitoring. I’m drawn to work that turns raw information into insights that help teams make smarter decisions and improve how things run.
+
+Right now, I’m expanding my portfolio with projects focused on Tableau, SQL, and practical business analytics.
+
+
+🧰 Technical Skills
+
+🔧 Skills & Tools
+
+-Languages: , SQL
+
+-Analysis: Excel
+
+-Visualization: Power BI, Tableau
+
+-Machine Learning: Logistic Regression & Decision Trees
+
+-Workflow Tools: GitHub & Google Colab
+
+📈 Highlight Project
+
+ ****Pending****
+
+🎓 Currently Learning
+
+More advanced SQL queries
+
+Building interactive Power BI dashboards
+
+Improving data storytelling techniques
+
+Strengthening AI skills
+
+🤝 Connect
+LinkedIn: www.linkedin.com/in/lahia-rodriguez
+
+Email: Lahiarodz@outloo.com 
