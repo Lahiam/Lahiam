@@ -41,4 +41,4 @@ ____________________________
 ## 🤝 Let's Connect
 LinkedIn: www.linkedin.com/in/lahia-rodriguez
 
-Email: Lahiarodz@outloo.com 
+Email: Lahiarodz@outlook.com 
