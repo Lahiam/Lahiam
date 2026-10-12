@@ -1,18 +1,16 @@
-👋 Hi, I’m Lahia!
-________________________________________________________________________________________________________________________________________________
+# 👋 Hi, I’m Lahia!
 
-Aspiring Data Analyst
 
-🌱 Who I Am 
+## Aspiring Data Analyst | Tableau • Excel • Power BI • SQL
+
+### 🌱 Who I Am 
 
 I’m developing my career in data analytics, building on experience in business operations, customer support, and revenue monitoring. I’m drawn to work that turns raw information into insights that help teams make smarter decisions and improve how things run.
 
 Right now, I’m expanding my portfolio with projects focused on Tableau, SQL, and practical business analytics.
+_________________________________
 
-
-🧰 Technical Skills
-
-🔧 Skills & Tools
+### 🔧 Skills & Tools
 
 -Languages: , SQL
 
@@ -24,11 +22,13 @@ Right now, I’m expanding my portfolio with projects focused on Tableau, SQL, a
 
 -Workflow Tools: GitHub & Google Colab
 
-📈 Highlight Project
+__________________________________
+### 📈 Highlight Project
 
  ****Pending****
+ _______________________________
 
-🎓 Currently Learning
+### 🎓 Currently Learning
 
 More advanced SQL queries
 
@@ -38,7 +38,8 @@ Improving data storytelling techniques
 
 Strengthening AI skills
 
-🤝 Connect
+____________________________
+## 🤝 Connect
 LinkedIn: www.linkedin.com/in/lahia-rodriguez
 
 Email: Lahiarodz@outloo.com 
