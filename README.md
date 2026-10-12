@@ -7,7 +7,7 @@
 
 I’m developing my career in data analytics, building on experience in business operations, customer support, and revenue monitoring. I’m drawn to work that turns raw information into insights that help teams make smarter decisions and improve how things run.
 
-Right now, I’m expanding my portfolio with projects focused on Tableau, SQL, and practical business analytics.
+Right now, I’m expanding my portfolio with projects focused on Tableau, Power Bi, SQL and practical business analytics.
 _________________________________
 
 ### 🔧 Skills & Tools
@@ -25,7 +25,6 @@ _________________________________
 __________________________________
 ### 📈 Highlight Project
 
- ****Pending****
  _______________________________
 
 ### 🎓 Currently Learning
@@ -39,7 +38,7 @@ Improving data storytelling techniques
 Strengthening AI skills
 
 ____________________________
-## 🤝 Connect
+## 🤝 Let's Connect
 LinkedIn: www.linkedin.com/in/lahia-rodriguez
 
 Email: Lahiarodz@outloo.com 
