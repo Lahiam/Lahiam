@@ -1,11 +1,10 @@
 # 👋 Hi, I’m Lahia!
 
-
-## Aspiring Data Analyst | Tableau • Excel • Power BI • SQL
+## Entry-Level Data Analyst | Skilled in Tableau, Power BI, SQL, Excel | Passionate About Turning Data Into Insights
 
 ### 🌱 Who I Am 
 
-I’m developing my career in data analytics, building on experience in business operations, customer support, and revenue monitoring. I’m drawn to work that turns raw information into insights that help teams make smarter decisions and improve how things run.
+I bring hands-on experience in customer operations, business processes, and data-driven decision support. I’m especially strong in identifying patterns, improving workflows, and communicating insights clearly.
 
 Right now, I’m expanding my portfolio with projects focused on Tableau, Power Bi, SQL and practical business analytics.
 _________________________________
@@ -35,6 +34,9 @@ __________________________________
   
 ____________________________
 ## 🤝 Let's Connect
+
 LinkedIn: www.linkedin.com/in/lahia-rodriguez
 
 Email: Lahiarodz@outlook.com 
+
+I’m open to entry-level data roles, internships, and analytics projects.
