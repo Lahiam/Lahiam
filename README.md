@@ -12,15 +12,14 @@ _________________________________
 
 ### 🔧 Skills & Tools
 
--Languages: , SQL
-
--Analysis: Excel
-
--Visualization: Power BI, Tableau
-
--Machine Learning: Logistic Regression & Decision Trees
-
--Workflow Tools: GitHub & Google Colab
+- Languages:SQL
+- Analysis: Excel
+- Visualization: Power BI, Tableau
+- Machine Learning: Logistic Regression & Decision Trees
+- Workflow Tools: GitHub & Google Colab
+- Course Certificate - Foundations: Data, Data, Everywhere
+Link: https://www.coursera.org/account/accomplishments/verify/HCSCKXW82L33 
+Credential ID HCSCKXW82L33
 
 __________________________________
 ### 📈 Highlight Project
@@ -29,14 +28,11 @@ __________________________________
 
 ### 🎓 Currently Learning
 
-More advanced SQL queries
-
-Building interactive Power BI dashboards
-
-Improving data storytelling techniques
-
-Strengthening AI skills
-
+- More advanced SQL queries
+- Building interactive Power BI dashboards
+- Improving data storytelling techniques
+- Strengthening AI skills
+  
 ____________________________
 ## 🤝 Let's Connect
 LinkedIn: www.linkedin.com/in/lahia-rodriguez
