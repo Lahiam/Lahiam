@@ -21,12 +21,12 @@ Link: https://www.coursera.org/account/accomplishments/verify/HCSCKXW82L33
 Credential ID HCSCKXW82L33
 
 __________________________________
-### 📈 Highlight Project
-World Population Growth Analysis — Tableau
+### 📈 Highlight Projects
+#1 World Population Growth Analysis — Tableau
 
 Link: https://public.tableau.com/views/WorldPopulationGrowthAnalysisUsingTableauDesktop/AveragePopulationbyCountry?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
-Project overview
+Projects overview
 
 This project analyzes historical population data for 216 countries and territories from 1960 to 2015 using Tableau. The dashboard presents population averages by country, a geographic population map, and a trend view comparing China, India, the Russian Federation, and the United States.
 Key findings
@@ -44,6 +44,22 @@ Geographic mapping
 - Time-series analysis
 - Interactive country comparison
 - Dashboard design and color encoding
+  _____________________________
+  
+#2 COVID-19 Data Exploration (SQL)
+Tools: SQL Server, SSMS, Tableau/Power BI (for visualization)
+Dataset: Our World in Data COVID-19 deaths and vaccinations tables
+Link: https://github.com/Lahiam/Lahiam/blob/main/Covid%20Portfolio%20Project.sql 
+
+I explored global COVID-19 data in SQL to understand how infection, mortality, and vaccination rates compared across countries and continents, and prepared the data for dashboard visualization.
+
+Questions I answered
+
+How likely was a person to die after contracting COVID in a given country? (total cases vs. total deaths)
+What share of each country’s population was infected? Which countries had the highest infection rate?
+Which countries and continents had the highest death counts?
+How did global cases and deaths trend day by day?
+How quickly did vaccination roll out relative to population?
 
  _______________________________
 
