@@ -53,13 +53,13 @@ Link: https://github.com/Lahiam/Lahiam/blob/main/Covid%20Portfolio%20Project.sql
 
 I explored global COVID-19 data in SQL to understand how infection, mortality, and vaccination rates compared across countries and continents, and prepared the data for dashboard visualization.
 
-Questions I answered
+Questions I answered:
 
-How likely was a person to die after contracting COVID in a given country? (total cases vs. total deaths)
-What share of each country’s population was infected? Which countries had the highest infection rate?
-Which countries and continents had the highest death counts?
-How did global cases and deaths trend day by day?
-How quickly did vaccination roll out relative to population?
+- How likely was a person to die after contracting COVID in a given country? (total cases vs. total deaths)
+- What share of each country’s population was infected? Which countries had the highest infection rate?
+- Which countries and continents had the highest death counts?
+- How did global cases and deaths trend day by day?
+- How quickly did vaccination roll out relative to population?
 
  _______________________________
 
